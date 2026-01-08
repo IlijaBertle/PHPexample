@@ -1,7 +1,7 @@
 {
   "name": "Partybubble",
   "short_name": "Party",
-  "start_url": "/web/index.php",
+  "start_url": "/web/index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
